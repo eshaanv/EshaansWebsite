@@ -1,0 +1,4 @@
+baseURL = 'http://eshaanvipaniswebsite.org/'
+languageCode = 'en-us'
+title = 'Eshaan Vipani Website'
+theme = 'ananke'
