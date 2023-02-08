@@ -5,6 +5,6 @@ draft: true
 ---
 ##
 
-This is the intro to my first website using Hugo. My name is **bold** Eshaan Vipani
+This is the intro to my first website using Hugo. My name is **bold** Eshaan Vipani. See you sooon
 
 
